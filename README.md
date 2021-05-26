@@ -1,4 +1,8 @@
-# LoginBehanceInspiration
+# Login Behance Inspiration
+
+This project was inspired by (ripped off from) **[Minimal login form](https://www.behance.net/gallery/107005793/Minimal-login-form)**, an original design created beautifully by **[Denitsa Dimitrova](https://www.behance.net/deni-dimitrova)**, this was made without her permission and if it causes any problem or is not consented by her to be published by **Angular Bootstrap**, it will be taken down without any objections.
+
+This is just for educational purposes and ment no harm to the copyright of the original designer. You can use it as is for your open source or "fun" projects. If you want to use it in any commercial project, you have to ask permission to the original designer
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.0.
 
